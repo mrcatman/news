@@ -11,6 +11,9 @@
 
 # Данные от админ-панели 
 Адрес для входа: localhost:8000/login
+
 Адрес панели: localhost:8000/manager
+
 E-mail: admin@news.local
+
 Password: password
